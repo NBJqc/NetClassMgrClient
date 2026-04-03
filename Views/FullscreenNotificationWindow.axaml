@@ -1,0 +1,50 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:fa="clr-namespace:FluentAvalonia.UI.Controls;assembly=FluentAvalonia"
+        x:Class="NetClassManage.Views.FullscreenNotificationWindow"
+        Icon="/Assets/icon.ico"
+        Title="霸屏通知"
+        WindowStartupLocation="CenterScreen"
+        Topmost="True"
+        ShowInTaskbar="False"
+        ExtendClientAreaToDecorationsHint="True"
+        ExtendClientAreaChromeHints="NoChrome"
+        ExtendClientAreaTitleBarHeightHint="-1"
+        CanResize="False"
+        Background="#FF0078D4">
+
+    <Grid RowDefinitions="*,Auto,*,Auto,Auto" Margin="40">
+        <fa:SymbolIcon Grid.Row="0" x:Name="IconSymbol" Symbol="Important" FontSize="80" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
+        
+        <TextBlock Grid.Row="1" x:Name="TitleText"
+                  Text="霸屏通知" 
+                  FontSize="48" FontWeight="Bold"
+                  Foreground="White"
+                  HorizontalAlignment="Center" 
+                  Margin="0,20,0,0"/>
+        
+        <Border Grid.Row="2" Background="#FFFFFF" CornerRadius="12" Margin="40" Padding="40">
+            <TextBlock x:Name="MessageText" 
+                      TextWrapping="Wrap"
+                      FontSize="32"
+                      Foreground="#333333"
+                      Text="通知内容"/>
+        </Border>
+        
+        <TextBlock Grid.Row="3" x:Name="CountdownText" 
+                  Text="5秒后可关闭"
+                  FontSize="20"
+                  Foreground="White"
+                  HorizontalAlignment="Center"
+                  Margin="0,20,0,0"/>
+        
+        <Button Grid.Row="4" x:Name="CloseButton" Content="关闭" 
+                Classes="accent"
+                Click="OnCloseClick"
+                Width="160" Height="60"
+                FontSize="18"
+                HorizontalAlignment="Center"
+                Margin="0,20,0,0"
+                IsEnabled="False"/>
+    </Grid>
+</Window>
