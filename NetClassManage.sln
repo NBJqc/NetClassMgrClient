@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetClassManage", "NetClassManage.csproj", "{B8D1F4A9-8C3A-4E5B-9D2E-7F8A1B2C3D4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetClassManage.Updater", "Updater\Updater.csproj", "{C9E2G5B0-9D4B-5F6C-0E3F-8G9B2C3D4E5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D1F4A9-8C3A-4E5B-9D2E-7F8A1B2C3D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D1F4A9-8C3A-4E5B-9D2E-7F8A1B2C3D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D1F4A9-8C3A-4E5B-9D2E-7F8A1B2C3D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D1F4A9-8C3A-4E5B-9D2E-7F8A1B2C3D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E2G5B0-9D4B-5F6C-0E3F-8G9B2C3D4E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E2G5B0-9D4B-5F6C-0E3F-8G9B2C3D4E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E2G5B0-9D4B-5F6C-0E3F-8G9B2C3D4E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E2G5B0-9D4B-5F6C-0E3F-8G9B2C3D4E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
