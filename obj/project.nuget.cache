@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "dgSpecHash": "1UDswwnjx1E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NotBad_Jqc\\Documents\\e13.nbjqc.cn\\netclassmanage\\NetClassManage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia\\11.2.5\\avalonia.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.22045.20230930\\avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.buildservices\\0.0.31\\avalonia.buildservices.0.0.31.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.controls.colorpicker\\11.2.5\\avalonia.controls.colorpicker.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.controls.datagrid\\11.2.5\\avalonia.controls.datagrid.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.desktop\\11.2.5\\avalonia.desktop.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.fonts.inter\\11.2.5\\avalonia.fonts.inter.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.freedesktop\\11.2.5\\avalonia.freedesktop.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.native\\11.2.5\\avalonia.native.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.reactiveui\\11.2.5\\avalonia.reactiveui.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.remote.protocol\\11.2.5\\avalonia.remote.protocol.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.skia\\11.2.5\\avalonia.skia.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.themes.fluent\\11.2.5\\avalonia.themes.fluent.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.win32\\11.2.5\\avalonia.win32.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\avalonia.x11\\11.2.5\\avalonia.x11.11.2.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\dynamicdata\\8.4.1\\dynamicdata.8.4.1.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\fluentavaloniaui\\2.4.1\\fluentavaloniaui.2.4.1.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\harfbuzzsharp\\7.3.0.3\\harfbuzzsharp.7.3.0.3.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\harfbuzzsharp.nativeassets.linux\\7.3.0.3\\harfbuzzsharp.nativeassets.linux.7.3.0.3.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0.3\\harfbuzzsharp.nativeassets.macos.7.3.0.3.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\harfbuzzsharp.nativeassets.webassembly\\7.3.0.3\\harfbuzzsharp.nativeassets.webassembly.7.3.0.3.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\7.3.0.3\\harfbuzzsharp.nativeassets.win32.7.3.0.3.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.25\\microsoft.net.illink.tasks.8.0.25.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\opencvsharp4\\4.10.0.20240615\\opencvsharp4.4.10.0.20240615.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\opencvsharp4.runtime.win\\4.10.0.20240615\\opencvsharp4.runtime.win.4.10.0.20240615.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\reactiveui\\20.1.1\\reactiveui.20.1.1.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\skiasharp\\2.88.9\\skiasharp.2.88.9.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.88.9\\skiasharp.nativeassets.linux.2.88.9.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.9\\skiasharp.nativeassets.macos.2.88.9.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\skiasharp.nativeassets.webassembly\\2.88.9\\skiasharp.nativeassets.webassembly.2.88.9.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.9\\skiasharp.nativeassets.win32.2.88.9.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\splat\\15.1.1\\splat.15.1.1.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\tmds.dbus.protocol\\0.20.0\\tmds.dbus.protocol.0.20.0.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.25\\microsoft.netcore.app.runtime.win-x64.8.0.25.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.25\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.25.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.25\\microsoft.aspnetcore.app.runtime.win-x64.8.0.25.nupkg.sha512",
+    "C:\\Users\\NotBad_Jqc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "NetClassManage 依赖于 OpenCvSharp4 (>= 4.10.0)，但没有找到 OpenCvSharp4 4.10.0。已改为解析 OpenCvSharp4 4.10.0.20240615。",
+      "projectPath": "C:\\Users\\NotBad_Jqc\\Documents\\e13.nbjqc.cn\\netclassmanage\\NetClassManage.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\NotBad_Jqc\\Documents\\e13.nbjqc.cn\\netclassmanage\\NetClassManage.csproj",
+      "libraryId": "OpenCvSharp4",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "NetClassManage 依赖于 OpenCvSharp4.runtime.win (>= 4.10.0)，但没有找到 OpenCvSharp4.runtime.win 4.10.0。已改为解析 OpenCvSharp4.runtime.win 4.10.0.20240615。",
+      "projectPath": "C:\\Users\\NotBad_Jqc\\Documents\\e13.nbjqc.cn\\netclassmanage\\NetClassManage.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\NotBad_Jqc\\Documents\\e13.nbjqc.cn\\netclassmanage\\NetClassManage.csproj",
+      "libraryId": "OpenCvSharp4.runtime.win",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "包 \"System.Text.Json\" 8.0.0 具有已知的 高 严重性漏洞，https://github.com/advisories/GHSA-8g4q-xg66-9fp4",
+      "projectPath": "C:\\Users\\NotBad_Jqc\\Documents\\e13.nbjqc.cn\\netclassmanage\\NetClassManage.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\NotBad_Jqc\\Documents\\e13.nbjqc.cn\\netclassmanage\\NetClassManage.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/win-x64"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "包 \"System.Text.Json\" 8.0.0 具有已知的 高 严重性漏洞，https://github.com/advisories/GHSA-hh2w-p6rv-4g7w",
+      "projectPath": "C:\\Users\\NotBad_Jqc\\Documents\\e13.nbjqc.cn\\netclassmanage\\NetClassManage.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\NotBad_Jqc\\Documents\\e13.nbjqc.cn\\netclassmanage\\NetClassManage.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net8.0",
+        "net8.0/win-x64"
+      ]
+    }
+  ]
+}

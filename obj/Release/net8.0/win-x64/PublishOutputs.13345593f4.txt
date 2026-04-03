@@ -1,0 +1,2 @@
+C:\Users\NotBad_Jqc\Documents\e13.nbjqc.cn\netclassmanage\bin\Release\net8.0\win-x64\publish\NetClassManage.pdb
+C:\Users\NotBad_Jqc\Documents\e13.nbjqc.cn\netclassmanage\bin\Release\net8.0\win-x64\publish\NetClassManage.exe
